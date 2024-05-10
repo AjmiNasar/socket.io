@@ -21,3 +21,6 @@ cors
 
 This project was inspired by Socket.IO documentation.
 
+[![Banner](./banner.png)](https://example.com/link_to_your_page)
+
+
